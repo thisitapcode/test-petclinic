@@ -74,7 +74,7 @@ class OwnerControllerTests {
 		george.setFirstName("George");
 		george.setLastName("Franklin");
 		george.setAddress("110 W. Liberty St.");
-		george.setCity("Mad");// change this from Madison to Mad
+		george.setCity("Madison");// change this from Madison to Mad
 		george.setTelephone("6085551023");
 		Pet max = new Pet();
 		PetType dog = new PetType();
